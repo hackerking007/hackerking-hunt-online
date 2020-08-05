@@ -701,3 +701,26 @@ ul.sub-menu{
 }
 
 } */
+@media (max-width:320px) {
+	.resp{
+		margin-left: 7rem;
+	}
+	section .container-fluid {
+    padding: 0px 50px;
+}
+}
+@media (max-width:375px) {
+	.resp{
+		margin-left: 7rem;
+	}
+	section .container-fluid {
+    padding: 0px 50px;
+}
+}@media (max-width:425px) {
+	.resp{
+		margin-left: 7rem;
+	}
+	section .container-fluid {
+    padding: 0px 50px;
+}
+}
